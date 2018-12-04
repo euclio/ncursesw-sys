@@ -1,0 +1,9 @@
+[package]
+name = "ncursesw-sys"
+version = "0.1.0"
+authors = ["Andy Russell <arussell123@gmail.com>"]
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.44.0"
